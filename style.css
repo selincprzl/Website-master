@@ -41,7 +41,7 @@
   
   .navbar ul li a {
     text-decoration: none;
-    color: #133a1d; /* soft beige */
+    color: #133a1d; 
     font-size: 16px;
     transition: color 0.3s;
   }
@@ -50,7 +50,7 @@
     content: '';
     height: 3px;
     width: 0;
-    background: #133a1d; /* beige underline */
+    background: #133a1d; 
     position: absolute;
     left: 0;
     bottom: -5px;
@@ -63,7 +63,7 @@
   
   .content {
     text-align: center;
-    color: #133a1d; /* main heading */
+    color: #133a1d; 
     margin-top: 20vh;
     padding: 0 10px;
   }
@@ -77,7 +77,7 @@
     max-width: 600px;
     margin: auto;
     line-height: 1.6;
-    color: #133a1d; /* soft paragraph color */
+    color: #133a1d; 
 
   }
   
@@ -85,7 +85,7 @@
     height: 5px;
     width: 60%;
     max-width: 800px;
-    background: #133a1d; /* beige */
+    background: #133a1d; 
     margin: 15px auto;
   }
   
